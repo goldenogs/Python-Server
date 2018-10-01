@@ -1,0 +1,71 @@
+Connected to Goloman
+Connection from ('127.0.0.1', 58385) 
+Data received: 'Wilkes is up'
+Closing Hands
+Connection from ('127.0.0.1', 53383) 
+Connection from ('127.0.0.1', 53384) 
+Data received: 'AT Wilkes Holiday +8257430.773287058 golden -33.461619-70.651851 1520000000.918963997'
+New client created: golden
+Try forwarding AT message to: Goloman: 12558
+Data received: 'AT Goloman Holiday +8257430.773287058 golden -33.461619-70.651851 1520000000.918963997'
+Already received this information or the timestamp is newer
+Successfully flooded message to Goloman, 12558 
+Connection from ('127.0.0.1', 56705) 
+Connection from ('127.0.0.1', 56708) 
+Data received: 'AT Goloman Holiday +8321947.0306789875 goldennnnn -33.461619-70.651851 1520000000.918963997'
+Data received: 'AT Wilkes Holiday +8321947.0306789875 goldennnnn -33.461619-70.651851 1520000000.918963997'
+New client created: goldennnnn
+Try forwarding AT message to: Wilkes: 12562
+Already received this information or the timestamp is newer
+Successfully flooded message to Wilkes, 12562 
+Connection from ('127.0.0.1', 56724) 
+Connection from ('127.0.0.1', 56725) 
+Data received: 'AT Goloman Holiday +8322031.505894899 goldennnnn -33.461619-70.651851 1520000010.918963997'
+Data received: 'AT Wilkes Holiday +8322031.505894899 goldennnnn -33.461619-70.651851 1520000010.918963997'
+Updated client information: ['-33.461619-70.651851', '+8322031.505894899', '1520000000.918963997']
+Try forwarding AT message to: Wilkes: 12562
+Already received this information or the timestamp is newer
+Successfully flooded message to Wilkes, 12562 
+Closing Hands
+Connection from ('127.0.0.1', 59584) 
+Connection from ('127.0.0.1', 59585) 
+Data received: 'AT Wilkes Holiday +1378337300.27731 goldennnnn -33.461619-70.651851 150000000'
+New client created: goldennnnn
+Try forwarding AT message to: Goloman: 12558
+Data received: 'AT Goloman Holiday +1378337300.27731 goldennnnn -33.461619-70.651851 150000000'
+Already received this information or the timestamp is newer
+Successfully flooded message to Goloman, 12558 
+Connection from ('127.0.0.1', 59591) 
+Connection from ('127.0.0.1', 59594) 
+Data received: 'AT Goloman Holiday +28337306.644490957 goldennnnn -33.461619-70.651851 1500000000'
+Updated client information: ['-33.461619-70.651851', '+28337306.644490957', '150000000']
+Try forwarding AT message to: Wilkes: 12562
+Data received: 'AT Wilkes Holiday +28337306.644490957 goldennnnn -33.461619-70.651851 1500000000'
+Already received this information or the timestamp is newer
+Successfully flooded message to Wilkes, 12562 
+Connection from ('127.0.0.1', 59600) 
+Connection from ('127.0.0.1', 59601) 
+Data received: 'AT Goloman Holiday -13471662690.706614 goldennnnn -33.461619-70.651851 15000000000'
+Data received: 'AT Wilkes Holiday -13471662690.706614 goldennnnn -33.461619-70.651851 15000000000'
+Updated client information: ['-33.461619-70.651851', '-13471662690.706614', '150000000']
+Try forwarding AT message to: Wilkes: 12562
+Already received this information or the timestamp is newer
+Successfully flooded message to Wilkes, 12562 
+Connection from ('127.0.0.1', 59607) 
+Connection from ('127.0.0.1', 59610) 
+Data received: 'AT Goloman Holiday -71662685.58916092 goldennnnn -33.461619-70.651851 1600000000'
+Updated client information: ['-33.461619-70.651851', '-71662685.58916092', '150000000']
+Try forwarding AT message to: Wilkes: 12562
+Data received: 'AT Wilkes Holiday -71662685.58916092 goldennnnn -33.461619-70.651851 1600000000'
+Already received this information or the timestamp is newer
+Successfully flooded message to Wilkes, 12562 
+Closing Hands
+Connection from ('127.0.0.1', 59634) 
+Connection from ('127.0.0.1', 59635) 
+Data received: 'AT Goloman Holiday +8313464.08937192 kiwi.cs.ucla.edu +34.068930-118.445127 1520023934.918963997'
+New client created: kiwi.cs.ucla.edu
+Try forwarding AT message to: Wilkes: 12562
+Data received: 'AT Wilkes Holiday +8313464.08937192 kiwi.cs.ucla.edu +34.068930-118.445127 1520023934.918963997'
+Already received this information or the timestamp is newer
+Successfully flooded message to Wilkes, 12562 
+Closing Hands

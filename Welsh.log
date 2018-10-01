@@ -1,0 +1,167 @@
+Connection from ('127.0.0.1', 58447) 
+Data received: 'WHATSAT kiwi.cs.ucla.edu 50 20'
+Invalid WHATSAT format!
+Data sent to client: ? WHATSAT kiwi.cs.ucla.edu 50 20
+Data received: 'IAMAT kiwi.cs.ucla.edu -20.068930-118.445127 1520000000.918963997'
+Invalid IAMAT format!
+Data sent to client: ? IAMAT kiwi.cs.ucla.edu -20.068930-118.445127 1520000000.918963997
+Data received: 'IAMAT kiwi.cs.ucla.edu -20.068930+118.445127 1520000000.918963997'
+Data sent to client: AT Welsh +8171207.667725086 kiwi.cs.ucla.edu -20.068930+118.445127 1520000000.918963997
+
+Failed to flood message to Holiday, 12560
+Connection from ('127.0.0.1', 58534) 
+Data received: 'WHATSAT kiwi.cs.ucla.edu 1 1'
+Getting Json from Google Places
+Data received: 'IAMAT kiwi.cs.ucla.edu -33.461619-70.651851 1520000000.918963997'
+Invalid IAMAT format!
+Data sent to client: ? IAMAT kiwi.cs.ucla.edu -33.461619-70.651851 1520000000.918963997
+Closing Welsh
+Connection from ('127.0.0.1', 59842) 
+Data received: 'IAMAT kiwi.cs.ucla.edu -33.461619-70.651851 1520000000.918963997'
+Data sent to client: AT Welsh +8171470.058141947 kiwi.cs.ucla.edu -33.461619-70.651851 1520000000.918963997
+
+Failed to flood message to Holiday, 12560
+Data received: 'IAMAT kiwi.cs.ucla.edu -33.46161970.651851 1520000000.918963997'
+Data sent to client: AT Welsh +8171470.058141947 kiwi.cs.ucla.edu -33.46161970.651851 1520000000.918963997
+
+Failed to flood message to Holiday, 12560
+Data received: 'IAMAT kiwi.cs.ucla.edu 33.46161970.651851 1520000000.918963997'
+Invalid IAMAT format!
+Data sent to client: ? IAMAT kiwi.cs.ucla.edu 33.46161970.651851 1520000000.918963997
+Closing Welsh
+Connection from ('127.0.0.1', 53379) 
+Data received: 'AT Holiday +8257430.773287058 golden -33.461619-70.651851 1520000000.918963997'
+New client created: golden
+Connection from ('127.0.0.1', 56640) 
+Data received: 'AT Holiday +8257430.773287058 golden -33.461619-70.651851 1520000000.918963997'
+Already received this information or the timestamp is newer
+Connection from ('127.0.0.1', 56655) 
+Data received: 'AT Holiday +8257430.773287058 golden -33.461619-70.651851 1520000000.918963997'
+Already received this information or the timestamp is newer
+Connection from ('127.0.0.1', 56658) 
+Data received: 'AT Holiday +8257430.773287058 golden -33.461619-70.651851 1520000000.918963997'
+Already received this information or the timestamp is newer
+Connection from ('127.0.0.1', 56661) 
+Data received: 'AT Holiday +8257430.773287058 golden -33.461619-70.651851 1520000000.918963997'
+Already received this information or the timestamp is newer
+Connection from ('127.0.0.1', 56664) 
+Data received: 'AT Holiday +8257430.773287058 golden -33.461619-70.651851 1520000000.918963997'
+Already received this information or the timestamp is newer
+Connection from ('127.0.0.1', 56667) 
+Data received: 'AT Holiday +8257430.773287058 golden -33.461619-70.651851 1520000000.918963997'
+Already received this information or the timestamp is newer
+Connection from ('127.0.0.1', 56670) 
+Data received: 'AT Holiday +8257430.773287058 golden -33.461619-70.651851 1520000000.918963997'
+Already received this information or the timestamp is newer
+Connection from ('127.0.0.1', 56673) 
+Data received: 'AT Holiday +8257430.773287058 golden -33.461619-70.651851 1520000000.918963997'
+Already received this information or the timestamp is newer
+Connection from ('127.0.0.1', 56676) 
+Data received: 'AT Holiday +8257430.773287058 golden -33.461619-70.651851 1520000000.918963997'
+Already received this information or the timestamp is newer
+Connection from ('127.0.0.1', 56679) 
+Data received: 'AT Holiday +8257430.773287058 golden -33.461619-70.651851 1520000000.918963997'
+Already received this information or the timestamp is newer
+Connection from ('127.0.0.1', 56692) 
+Data received: 'AT Holiday +8257430.773287058 golden -33.461619-70.651851 1520000000.918963997'
+Already received this information or the timestamp is newer
+Connection from ('127.0.0.1', 56702) 
+Data received: 'AT Holiday +8321947.0306789875 goldennnnn -33.461619-70.651851 1520000000.918963997'
+New client created: goldennnnn
+Connection from ('127.0.0.1', 56711) 
+Data received: 'AT Holiday +8321947.0306789875 goldennnnn -33.461619-70.651851 1520000000.918963997'
+Already received this information or the timestamp is newer
+Connection from ('127.0.0.1', 56714) 
+Data received: 'AT Holiday +8321947.0306789875 goldennnnn -33.461619-70.651851 1520000000.918963997'
+Already received this information or the timestamp is newer
+Connection from ('127.0.0.1', 56717) 
+Data received: 'AT Holiday +8321947.0306789875 goldennnnn -33.461619-70.651851 1520000000.918963997'
+Already received this information or the timestamp is newer
+Connection from ('127.0.0.1', 56720) 
+Data received: 'AT Holiday +8322031.505894899 goldennnnn -33.461619-70.651851 1520000010.918963997'
+Updated client information: ['-33.461619-70.651851', '+8322031.505894899', '1520000000.918963997']
+Connection from ('127.0.0.1', 56728) 
+Data received: 'AT Holiday +8322031.505894899 goldennnnn -33.461619-70.651851 15200000.918963997'
+Already received this information or the timestamp is newer
+Connection from ('127.0.0.1', 59079) 
+Data received: 'AT Holiday +8322031.505894899 goldennnnn -33.461619-70.651851 15200000.918963997'
+Already received this information or the timestamp is newer
+Connection from ('127.0.0.1', 59083) 
+Data received: 'AT Holiday +8322031.505894899 goldennnnn -33.461619-70.651851 15200000.918963997'
+Already received this information or the timestamp is newer
+Connection from ('127.0.0.1', 59086) 
+Data received: 'AT Holiday +8322031.505894899 goldennnnn -33.461619-70.651851 15200000.918963997'
+Already received this information or the timestamp is newer
+Connection from ('127.0.0.1', 59089) 
+Data received: 'AT Holiday +8322031.505894899 goldennnnn -33.461619-70.651851 15200000.918963997'
+Already received this information or the timestamp is newer
+Connection from ('127.0.0.1', 59098) 
+Data received: 'AT Holiday +8322031.505894899 goldennnnn -33.461619-70.651851 15200000.918963997'
+Already received this information or the timestamp is newer
+Connection from ('127.0.0.1', 59101) 
+Data received: 'AT Holiday +1513035721.630063 goldennnnn -33.461619-70.651851 15300000.918963997'
+Already received this information or the timestamp is newer
+Connection from ('127.0.0.1', 59104) 
+Data received: 'AT Holiday +1513035721.630063 goldennnnn -33.461619-70.651851 15100000.918963997'
+Already received this information or the timestamp is newer
+Connection from ('127.0.0.1', 59109) 
+Data received: 'AT Holiday +1513035721.630063 goldennnnn -33.461619-70.651851 15100000.918963997'
+Already received this information or the timestamp is newer
+Connection from ('127.0.0.1', 59112) 
+Data received: 'AT Holiday +1513035721.630063 goldennnnn -33.461619-70.651851 15100000.918963997'
+Already received this information or the timestamp is newer
+Connection from ('127.0.0.1', 59115) 
+Data received: 'AT Holiday +1377335771.23583 goldennnnn -33.461619-70.651851 151000000.918963997'
+Already received this information or the timestamp is newer
+Connection from ('127.0.0.1', 59119) 
+Data received: 'AT Holiday +17335776.665034056 goldennnnn -33.461619-70.651851 1511000000.918963997'
+Already received this information or the timestamp is newer
+Connection from ('127.0.0.1', 59124) 
+Data received: 'AT Holiday +17335776.665034056 goldennnnn -33.461619-70.651851 15000000.918963997'
+Already received this information or the timestamp is newer
+Connection from ('127.0.0.1', 59127) 
+Data received: 'AT Holiday +17335776.665034056 goldennnnn -33.461619-70.651851 1500000.918963997'
+Already received this information or the timestamp is newer
+Connection from ('127.0.0.1', 59131) 
+Data received: 'AT Holiday +17335776.665034056 goldennnnn -33.461619-70.651851 1500000.918963997'
+Already received this information or the timestamp is newer
+Connection from ('127.0.0.1', 59135) 
+Data received: 'AT Holiday +17335776.665034056 goldennnnn -33.461619-70.651851 1500.918963997'
+Already received this information or the timestamp is newer
+Connection from ('127.0.0.1', 59138) 
+Data received: 'AT Holiday +28335796.64685917 goldennnnn -33.461619-70.651851 1500000000.918963997'
+Already received this information or the timestamp is newer
+Connection from ('127.0.0.1', 59141) 
+Data received: 'AT Holiday +28335796.64685917 goldennnnn -33.461619-70.651851 1500000.918963997'
+Already received this information or the timestamp is newer
+Closing Welsh
+Connection from ('127.0.0.1', 59580) 
+Data received: 'AT Holiday +1378337300.27731 goldennnnn -33.461619-70.651851 150000000'
+New client created: goldennnnn
+Connection from ('127.0.0.1', 59588) 
+Data received: 'AT Holiday +28337306.644490957 goldennnnn -33.461619-70.651851 1500000000'
+Updated client information: ['-33.461619-70.651851', '+28337306.644490957', '150000000']
+Connection from ('127.0.0.1', 59596) 
+Data received: 'AT Holiday -13471662690.706614 goldennnnn -33.461619-70.651851 15000000000'
+Updated client information: ['-33.461619-70.651851', '-13471662690.706614', '150000000']
+Connection from ('127.0.0.1', 59604) 
+Data received: 'AT Holiday -71662685.58916092 goldennnnn -33.461619-70.651851 1600000000'
+Updated client information: ['-33.461619-70.651851', '-71662685.58916092', '150000000']
+Closing Welsh
+Connection from ('127.0.0.1', 59617) 
+Data received: 'AT Holiday -71662667.59193087 goldennnnn -33.461619-70.651851 1600000000'
+New client created: goldennnnn
+Closing Welsh
+Connection from ('127.0.0.1', 59630) 
+Data received: 'AT Holiday +8313464.08937192 kiwi.cs.ucla.edu +34.068930-118.445127 1520023934.918963997'
+New client created: kiwi.cs.ucla.edu
+Connection from ('127.0.0.1', 59639) 
+Data received: 'AT Holiday +7313503.623999119 kiwi.cs.ucla.edu +34.068930-118.445127 1521023934.918963997'
+Already received this information or the timestamp is newer
+Connection from ('127.0.0.1', 59648) 
+Data received: 'AT Holiday +6313559.644042015 kiwi.cs.ucla.edu +34.068930-118.445127 1522023934.918963997'
+Already received this information or the timestamp is newer
+Connection from ('127.0.0.1', 59656) 
+Data received: 'AT Holiday +5313589.071855068 kiwi.cs.ucla.edu +35.068930-118.445127 1523023934.918963997'
+Already received this information or the timestamp is newer
+Closing Welsh
